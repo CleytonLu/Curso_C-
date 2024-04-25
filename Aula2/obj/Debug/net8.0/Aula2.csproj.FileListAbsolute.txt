@@ -12,3 +12,4 @@ C:\Users\cleyton.cabral\Desktop\Curso_C#\Aula2\obj\Debug\net8.0\refint\Aula2.dll
 C:\Users\cleyton.cabral\Desktop\Curso_C#\Aula2\obj\Debug\net8.0\Aula2.pdb
 C:\Users\cleyton.cabral\Desktop\Curso_C#\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
 C:\Users\cleyton.cabral\Desktop\Curso_C#\Aula2\obj\Debug\net8.0\ref\Aula2.dll
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Aula2\obj\Debug\net8.0\Aula2.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\bin\Debug\net8.0\projeto1.exe
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\bin\Debug\net8.0\projeto1.deps.json
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\bin\Debug\net8.0\projeto1.runtimeconfig.json
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\bin\Debug\net8.0\projeto1.dll
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\bin\Debug\net8.0\projeto1.pdb
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfoInputs.cache
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.AssemblyInfo.cs
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.csproj.CoreCompileInputs.cache
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.sourcelink.json
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.dll
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\refint\projeto1.dll
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.pdb
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\projeto1.genruntimeconfig.cache
+C:\Users\cleyton.cabral\Desktop\Curso_C#\projeto1\obj\Debug\net8.0\ref\projeto1.dll

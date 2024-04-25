@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj": {}
+    "C:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj": {
+    "C:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj",
+        "projectUniqueName": "C:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj",
         "projectName": "Aula2",
-        "projectPath": "c:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj",
+        "projectPath": "C:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\Aula2.csproj",
         "packagesPath": "C:\\Users\\cleyton.cabral\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\obj\\",
+        "outputPath": "C:\\Users\\cleyton.cabral\\Desktop\\Curso_C#\\Aula2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cleyton.cabral\\AppData\\Roaming\\NuGet\\NuGet.Config"

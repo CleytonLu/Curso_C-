@@ -1,0 +1,15 @@
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\bin\Debug\net8.0\Herança.exe
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\bin\Debug\net8.0\Herança.deps.json
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\bin\Debug\net8.0\Herança.runtimeconfig.json
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\bin\Debug\net8.0\Herança.dll
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\bin\Debug\net8.0\Herança.pdb
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.AssemblyInfoInputs.cache
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.AssemblyInfo.cs
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.sourcelink.json
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.dll
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\refint\Herança.dll
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.pdb
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\Herança.genruntimeconfig.cache
+C:\Users\cleyton.cabral\Desktop\Curso_C#\Herança\obj\Debug\net8.0\ref\Herança.dll
