@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("projeto1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ala 5 - Polimorfismo, Interface, override e overlai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ee26fc43938fa060515e7c3dc3bb67465fb04a1")]
-[assembly: System.Reflection.AssemblyProductAttribute("projeto1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("projeto1")]
+[assembly: System.Reflection.AssemblyProductAttribute("Ala 5 - Polimorfismo, Interface, override e overlai")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Ala 5 - Polimorfismo, Interface, override e overlai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2", "Aula2\Aula2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herança", "Herança\Herança.csproj", "{01585954-5EBF-47B7-8982-EDCABDD9E156}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ala 5 - Polimorfismo, Interface, override e overlai", "Ala 5 - Polimorfismo, Interface, override e overlai\Ala 5 - Polimorfismo, Interface, override e overlai.csproj", "{09A40AE3-5382-4686-8E43-D932F730FB61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{01585954-5EBF-47B7-8982-EDCABDD9E156}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01585954-5EBF-47B7-8982-EDCABDD9E156}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01585954-5EBF-47B7-8982-EDCABDD9E156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A40AE3-5382-4686-8E43-D932F730FB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A40AE3-5382-4686-8E43-D932F730FB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A40AE3-5382-4686-8E43-D932F730FB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A40AE3-5382-4686-8E43-D932F730FB61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ala 5 - Polimorfismo, Interface, override e overlai/1.0.0": {
+        "runtime": {
+          "Ala 5 - Polimorfismo, Interface, override e overlai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ala 5 - Polimorfismo, Interface, override e overlai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
